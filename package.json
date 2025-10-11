@@ -17,5 +17,11 @@
     "express": "^4.19.2",
     "method-override": "^3.0.0",
     "mongoose": "^7.7.0"
-  }
+  },
+  "devDependencies": {
+    "eslint": "^9.37.0",
+    "husky": "^9.1.7",
+    "lint-staged": "^16.2.4"
+  },
+  "type": "commonjs"
 }
